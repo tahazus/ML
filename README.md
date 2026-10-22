@@ -1,3 +1,3 @@
-# ml-nids
+# ML NISD
 
 My last Uni project
